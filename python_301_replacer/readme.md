@@ -418,3 +418,26 @@ The original tool only found **1 post with replaceable links** because it used c
 
 This should significantly increase the number of replaceable redirect links found in your WordPress posts while maintaining safety through user confirmation.
 
+# Version 1.1 : new features
+
+# Secure credential handling
+```
+export WP_PASSWORD="your_app_password"
+python wp301_cleaner.py --site https://site.com --user admin
+
+# Production-safe with limits
+python wp301_cleaner.py \
+  --site https://site.com \
+  --user admin \
+  --max-urls 5000 \
+  --max-workers 2 \
+  --replace --dry-run
+
+# Force live replacement (with security confirmation)
+python wp301_cleaner.py \
+  --site https://site.com \
+  --user admin \
+  --replace --force
+```
+
+
