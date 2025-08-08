@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # WordPress 301 Redirect Cleaner Tool
 
 A comprehensive, production-ready Python tool that automatically discovers and fixes internal 301 redirect links in WordPress sites. This tool crawls your entire WordPress site, identifies internal links that result in redirects, and can automatically replace them with their final destination URLs to improve site performance and SEO.
@@ -333,4 +331,90 @@ This tool is provided as-is for WordPress SEO optimization purposes. Use at your
 ***
 
 **⚡ Pro Tip**: Always start with `--dry-run` to see what changes would be made before running live replacement!
+
+
+# Update: Aggressive scan
+
+## 🔥 **Key New Features in Enhanced Aggressive Mode**
+
+### **1. Aggressive URL Detection**
+
+- **Text-based URL finding**: Finds URLs in content that aren't properly linked
+- **Fuzzy URL matching**: Uses similarity scoring to find related URLs
+- **Path-based detection**: Finds references to URL paths without full URLs
+- **Multiple pattern matching**: Comprehensive replacement patterns
+
+
+### **2. Interactive User Confirmation**
+
+- **Bulk confirmation**: "Approve all replacements" option
+- **Individual review**: Review each replacement one-by-one
+- **Detailed previews**: Shows context and replacement details
+- **Smart statistics**: Tracks confirmations and rejections
+
+
+### **3. Enhanced Analysis Methods**
+
+```python
+# Conservative mode (existing behavior)
+python wp301_cleaner.py --site https://site.com --user admin --password APP_PASSWORD
+
+# Aggressive mode with dry run (safe preview with confirmation)
+python wp301_cleaner.py --site https://site.com --user admin --password APP_PASSWORD --aggressive --replace --dry-run
+
+# Aggressive mode with live replacement (interactive)
+python wp301_cleaner.py --site https://site.com --user admin --password APP_PASSWORD --aggressive --replace
+```
+
+
+### **4. Enhanced Replacement Patterns**
+
+- **Standard patterns**: `href="URL"`, `href='URL'`
+- **URL-encoded patterns**: Handles encoded URLs
+- **HTML entity patterns**: Handles escaped HTML
+- **Path-only patterns**: Replaces `/path/` references
+- **Domain variations**: Handles www vs non-www variations
+
+
+### **5. User Confirmation Workflow**
+
+```
+📋 REPLACEMENT PREVIEW
+Post: Example Post Title
+Total Replacements Planned: 3
+
+🔄 Replacement 1:
+   Old URL: https://site.com/old-page
+   New URL: https://site.com/new-page
+   Pattern: href="https://site.com/old-page"
+   Method: href_attribute
+   Context: ...link to our <a href="https://site.com/old-page">product page</a>...
+
+🤔 CONFIRMATION OPTIONS:
+1. Approve ALL replacements for this post
+2. Review and approve each replacement individually  
+3. Skip this post (no replacements)
+```
+
+
+## 📊 **Enhanced Statistics**
+
+The enhanced version now tracks:
+
+- **Aggressive Matches Found**: URLs found through enhanced detection
+- **User Confirmations**: How many replacements user approved
+- **User Rejections**: How many replacements user declined
+
+
+## 🎯 **Why Aggressive Mode Finds More**
+
+The original tool only found **1 post with replaceable links** because it used conservative pattern matching. The enhanced aggressive mode:
+
+1. **Finds URLs in text content** that aren't properly linked
+2. **Uses fuzzy matching** to find similar URLs that might be variations
+3. **Detects path-only references** like `/old-page/` in content
+4. **Handles multiple URL formats** and encoding variations
+5. **Provides interactive confirmation** so you can review each match
+
+This should significantly increase the number of replaceable redirect links found in your WordPress posts while maintaining safety through user confirmation.
 

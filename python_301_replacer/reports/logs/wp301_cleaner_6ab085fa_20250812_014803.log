@@ -1,0 +1,92 @@
+2025-08-12 01:48:03,180 - __main__ - INFO - 🔥 Enhanced WordPress 301 Cleaner v3.1 with Aggressive Mode initialized
+2025-08-12 01:48:03,181 - __main__ - INFO - Authentication: Application Password
+2025-08-12 01:48:03,181 - __main__ - INFO - Replacement Mode: Aggressive
+2025-08-12 01:48:03,182 - __main__ - INFO - Dry run mode: Enabled
+2025-08-12 01:48:03,183 - __main__ - INFO - Log file: reports\logs\wp301_cleaner_6ab085fa_20250812_014803.log
+2025-08-12 01:48:03,187 - __main__ - INFO - 🔥 Starting Enhanced WordPress 301 redirect analysis - AGGRESSIVE DRY RUN MODE
+2025-08-12 01:48:03,188 - __main__ - INFO - Testing Application Password authentication...
+2025-08-12 01:48:04,286 - __main__ - INFO - ✅ Application Password authentication successful for: Ashwin
+2025-08-12 01:48:04,286 - __main__ - INFO - Step 2: Comprehensive site crawling...
+2025-08-12 01:48:04,286 - __main__ - INFO - Cache loaded: 1 URLs, 1 redirects
+2025-08-12 01:48:04,286 - __main__ - INFO - Step 3: Enhanced post analysis...
+2025-08-12 01:48:04,286 - __main__ - INFO - Analyzing WordPress posts for redirect links - AGGRESSIVE MODE
+2025-08-12 01:48:04,286 - __main__ - INFO - Fetching WordPress posts via REST API...
+2025-08-12 01:48:06,467 - __main__ - INFO - Fetched page 1: 23 posts
+2025-08-12 01:48:06,467 - __main__ - INFO - Total posts retrieved: 23
+2025-08-12 01:48:06,805 - __main__ - WARNING - Redirect loop detected: https://www.eutechfuture.com/category/deep-tech-in-europe
+2025-08-12 01:48:06,805 - __main__ - INFO - New redirect discovered in post 287: https://www.eutechfuture.com/category/deep-tech-in-europe → https://www.eutechfuture.com/category/deep-tech-in-europe
+2025-08-12 01:48:06,805 - __main__ - INFO - Post 'Deep Tech in Europe: Revolutionising the Future of Innovation': 1 redirect links
+2025-08-12 01:48:07,187 - __main__ - WARNING - Redirect loop detected: https://www.eutechfuture.com/artificial-intelligence/ai-powered-glasses-a-growing-trend-in-europe
+2025-08-12 01:48:07,187 - __main__ - INFO - New redirect discovered in post 267: https://www.eutechfuture.com/artificial-intelligence/ai-powered-glasses-a-growing-trend-in-europe → https://www.eutechfuture.com/artificial-intelligence/ai-powered-glasses-a-growing-trend-in-europe
+2025-08-12 01:48:07,521 - __main__ - INFO - Post 'Handwave: Revolutionizing Payments with Palm-Based Biometric Technology': 1 redirect links
+2025-08-12 01:48:07,904 - __main__ - WARNING - Redirect loop detected: https://www.eutechfuture.com/artificial-intelligence/the-ai-act-a-trailblazing-effort-to-regulate-artificial-intelligence-in-the-eu
+2025-08-12 01:48:07,904 - __main__ - INFO - New redirect discovered in post 243: https://www.eutechfuture.com/artificial-intelligence/the-ai-act-a-trailblazing-effort-to-regulate-artificial-intelligence-in-the-eu → https://www.eutechfuture.com/artificial-intelligence/the-ai-act-a-trailblazing-effort-to-regulate-artificial-intelligence-in-the-eu
+2025-08-12 01:48:08,245 - __main__ - INFO - Post 'Semiconductors in Europe: Reclaiming a Critical Frontier': 1 redirect links
+2025-08-12 01:48:09,964 - __main__ - WARNING - Redirect loop detected: https://www.eutechfuture.com/deep-tech-in-europe/deep-tech-funding-in-europe-an-overview
+2025-08-12 01:48:09,965 - __main__ - INFO - New redirect discovered in post 174: https://eutechfuture.com/2025/01/18/pixxel-space-revolutionising-earth-observation/deep-tech → https://www.eutechfuture.com/deep-tech-in-europe/deep-tech-funding-in-europe-an-overview
+2025-08-12 01:48:09,965 - __main__ - INFO - Post 'Sunita Williams Latest News and Space Update Today: A Comprehensive Overview': 1 redirect links
+2025-08-12 01:48:11,372 - __main__ - INFO - New redirect discovered in post 133: https://www.eutechfuture.com/Storm. → https://www.eutechfuture.com/Storm
+2025-08-12 01:48:11,703 - __main__ - INFO - Post 'Top Healthtech Startups in Europe': 1 redirect links
+2025-08-12 01:48:12,468 - __main__ - INFO - New redirect discovered in post 130: https://eutechfuture.com/2023/08/13/emerging-generative-ai-future/trending-tech → https://www.eutechfuture.com/2023/08/13/emerging-generative-ai-future/trending-tech
+2025-08-12 01:48:13,154 - __main__ - WARNING - Redirect loop detected: https://www.eutechfuture.com/deep-tech-in-europe/deep-tech-funding-in-europe-an-overview
+2025-08-12 01:48:13,154 - __main__ - INFO - New redirect discovered in post 130: https://eutechfuture.com/2023/08/27/ai-chip-manufacturers-in-europe/deep-tech → https://www.eutechfuture.com/deep-tech-in-europe/deep-tech-funding-in-europe-an-overview
+2025-08-12 01:48:13,154 - __main__ - INFO - Post 'The AI Act: A Trailblazing Effort to Regulate Artificial Intelligence in the EU': 2 redirect links
+2025-08-12 01:48:13,503 - __main__ - INFO - Post 'The Vital Role of Laboratory Testing Companies in Europe and the UK': 1 redirect links
+2025-08-12 01:48:14,901 - __main__ - WARNING - Redirect loop detected: https://www.eutechfuture.com/venture-capital/venture-capital-in-europe-supporting-deep-tech-innovation
+2025-08-12 01:48:14,901 - __main__ - INFO - New redirect discovered in post 117: https://eutechfuture.com/2023/08/08/venture-capital-in-europe-supporting-deep-tech-innovation/venture-capital → https://www.eutechfuture.com/venture-capital/venture-capital-in-europe-supporting-deep-tech-innovation
+2025-08-12 01:48:15,934 - __main__ - INFO - Post 'Starting a Venture Capital Firm in Europe': 1 redirect links
+2025-08-12 01:48:16,984 - __main__ - INFO - New redirect discovered in post 110: https://eutechfuture.com/2023/08/21/jeffrey-celavie-ai-oracle-and-online-astrologer-founder-claire-smith-funding-more/trending-tech → https://www.eutechfuture.com/2023/08/21/jeffrey-celavie-ai-oracle-and-online-astrologer-founder-claire-smith-funding-more/trending-tech
+2025-08-12 01:48:17,318 - __main__ - INFO - Post 'Leading the AI Chip Revolution: Key Players Driving Europe&#8217;s Emergence as a Powerhouse': 1 redirect links
+2025-08-12 01:48:18,371 - __main__ - INFO - New redirect discovered in post 99: https://eutechfuture.com/2023/08/14/londons-artificial-intelligence-ai-startup-scene-in-2023/startups → https://www.eutechfuture.com/2023/08/14/londons-artificial-intelligence-ai-startup-scene-in-2023/startups
+2025-08-12 01:48:18,719 - __main__ - INFO - Post 'The Rise of AI Gaming Companies in Europe': 1 redirect links
+2025-08-12 01:48:20,154 - __main__ - WARNING - Redirect loop detected: https://www.eutechfuture.com/category/venture-capital
+2025-08-12 01:48:20,154 - __main__ - INFO - New redirect discovered in post 86: https://eutechfuture.com/category/venture-capital → https://www.eutechfuture.com/category/venture-capital
+2025-08-12 01:48:20,903 - __main__ - INFO - Post 'The Luxury Private Helicopter Industry in Europe &#8211; Venture Capital, Funding and more': 1 redirect links
+2025-08-12 01:48:21,631 - __main__ - INFO - New redirect discovered in post 81: https://eutechfuture.com/2023/08/14/generative-ai-startups-in-europe-2023-venture-capital-tech-funding-and-more/startups → https://www.eutechfuture.com/2023/08/14/generative-ai-startups-in-europe-2023-venture-capital-tech-funding-and-more/startups
+2025-08-12 01:48:21,632 - __main__ - INFO - Post 'London&#8217;s Artificial Intelligence (AI) Startup Scene in 2023': 1 redirect links
+2025-08-12 01:48:22,705 - __main__ - INFO - Post 'Generative AI Startups in Europe 2023: Venture Capital, Tech, Funding and more': 1 redirect links
+2025-08-12 01:48:23,412 - __main__ - WARNING - Redirect loop detected: https://www.eutechfuture.com/venture-capital/anthropic-funding-and-more-claude-ai-pioneering-safe-and-helpful-conversational-ai
+2025-08-12 01:48:23,414 - __main__ - INFO - New redirect discovered in post 67: https://eutechfuture.com/2023/08/11/anthropic-funding-and-more-claude-ai-pioneering-safe-and-helpful-conversational-ai → https://www.eutechfuture.com/venture-capital/anthropic-funding-and-more-claude-ai-pioneering-safe-and-helpful-conversational-ai
+2025-08-12 01:48:23,414 - __main__ - INFO - Post 'Emerging Generative AI Future: Silver Lining or a Sceptic Horizon': 1 redirect links
+2025-08-12 01:48:24,104 - __main__ - WARNING - Redirect loop detected: https://www.eutechfuture.com/venture-capital/venture-capital-in-europe-supporting-deep-tech-innovation
+2025-08-12 01:48:24,104 - __main__ - INFO - New redirect discovered in post 30: https://eutechfuture.com/2023/08/08/venture-capital-in-europe-supporting-deep-tech-innovation → https://www.eutechfuture.com/venture-capital/venture-capital-in-europe-supporting-deep-tech-innovation
+2025-08-12 01:48:24,104 - __main__ - INFO - Post 'Anthropic’s Claude AI: Pioneering Safe and Helpful Conversational AI | Funding and more': 1 redirect links
+2025-08-12 01:48:24,114 - __main__ - INFO - Post 'Intelligent World: A Global Tech Event Connecting Thought Leaders and Innovators': 1 redirect links
+2025-08-12 01:48:24,820 - __main__ - INFO - New redirect discovered in post 19: https://www.eutechfuture.com/AI, → https://www.eutechfuture.com/AI
+2025-08-12 01:48:25,595 - __main__ - INFO - New redirect discovered in post 19: https://www.eutechfuture.com/VR, → https://www.eutechfuture.com/VR
+2025-08-12 01:48:26,272 - __main__ - WARNING - Redirect loop detected: https://www.eutechfuture.com/startups/20-eu-startups-to-watch-in-2023-according-to-eu-commission
+2025-08-12 01:48:26,272 - __main__ - INFO - New redirect discovered in post 19: https://eutechfuture.com/2023/08/02/20-eu-startups-to-watch-in-2023-according-to-eu-commission → https://www.eutechfuture.com/startups/20-eu-startups-to-watch-in-2023-according-to-eu-commission
+2025-08-12 01:48:27,031 - __main__ - INFO - New redirect discovered in post 19: https://www.eutechfuture.com/ML, → https://www.eutechfuture.com/ML
+2025-08-12 01:48:27,031 - __main__ - INFO - Post 'Venture Capital in Europe &#8211; Supporting Deep Tech Innovation': 4 redirect links
+2025-08-12 01:48:27,702 - __main__ - INFO - New redirect discovered in post 10: https://eutechfuture.com/ → https://www.eutechfuture.com/
+2025-08-12 01:48:28,056 - __main__ - INFO - Post '20 EU Startups to watch in 2023 according to EU Commission': 1 redirect links
+2025-08-12 01:48:28,056 - __main__ - INFO - Found 19 new redirects during post analysis
+2025-08-12 01:48:28,056 - __main__ - ERROR - Error saving cache: [WinError 183] Cannot create a file when that file already exists: 'reports\\cache_6ab085fa.pkl.tmp' -> 'reports\\cache_6ab085fa.pkl'
+2025-08-12 01:48:28,056 - __main__ - INFO - Post analysis complete: 22 redirect links in 18 posts
+2025-08-12 01:48:28,056 - __main__ - ERROR - Error saving cache: [WinError 183] Cannot create a file when that file already exists: 'reports\\cache_6ab085fa.pkl.tmp' -> 'reports\\cache_6ab085fa.pkl'
+2025-08-12 01:48:28,063 - __main__ - INFO - Step 4: Starting aggressive dry-run replacement...
+2025-08-12 01:48:28,063 - __main__ - INFO - Starting enhanced redirect link replacement - AGGRESSIVE DRY RUN MODE
+2025-08-12 01:50:40,508 - __main__ - INFO - 📋 DRY RUN - Skipping 'Deep Tech in Europe: Revolutionising the Future of Innovation': No links confirmed
+2025-08-12 01:51:34,392 - __main__ - INFO - 📋 DRY RUN - Skipping 'Handwave: Revolutionizing Payments with Palm-Based Biometric Technology': No links confirmed
+2025-08-12 01:51:48,946 - __main__ - INFO - 📋 DRY RUN - Skipping 'Semiconductors in Europe: Reclaiming a Critical Frontier': No links confirmed
+2025-08-12 01:52:21,113 - __main__ - INFO - 📋 DRY RUN - Skipping 'Sunita Williams Latest News and Space Update Today: A Comprehensive Overview': No links confirmed
+2025-08-12 01:52:27,634 - __main__ - INFO - 📋 DRY RUN - Skipping 'Top Healthtech Startups in Europe': No links confirmed
+2025-08-12 01:52:30,481 - __main__ - INFO - 📋 DRY RUN - Skipping 'The AI Act: A Trailblazing Effort to Regulate Artificial Intelligence in the EU': No links confirmed
+2025-08-12 01:52:32,990 - __main__ - INFO - 📋 DRY RUN - Skipping 'The Vital Role of Laboratory Testing Companies in Europe and the UK': No links confirmed
+2025-08-12 01:52:34,651 - __main__ - INFO - 📋 DRY RUN - Skipping 'Starting a Venture Capital Firm in Europe': No links confirmed
+2025-08-12 01:52:37,418 - __main__ - INFO - 📋 DRY RUN - Skipping 'Leading the AI Chip Revolution: Key Players Driving Europe&#8217;s Emergence as a Powerhouse': No links confirmed
+2025-08-12 01:52:38,867 - __main__ - INFO - 📋 DRY RUN - Skipping 'The Rise of AI Gaming Companies in Europe': No links confirmed
+2025-08-12 01:52:40,049 - __main__ - INFO - 📋 DRY RUN - Skipping 'The Luxury Private Helicopter Industry in Europe &#8211; Venture Capital, Funding and more': No links confirmed
+2025-08-12 01:52:41,334 - __main__ - INFO - 📋 DRY RUN - Skipping 'London&#8217;s Artificial Intelligence (AI) Startup Scene in 2023': No links confirmed
+2025-08-12 01:52:44,394 - __main__ - INFO - 📋 DRY RUN - Skipping 'Generative AI Startups in Europe 2023: Venture Capital, Tech, Funding and more': No links confirmed
+2025-08-12 01:52:48,434 - __main__ - INFO - 📋 DRY RUN - Skipping 'Emerging Generative AI Future: Silver Lining or a Sceptic Horizon': No links confirmed
+2025-08-12 01:52:50,510 - __main__ - INFO - 📋 DRY RUN - Skipping 'Anthropic’s Claude AI: Pioneering Safe and Helpful Conversational AI | Funding and more': No links confirmed
+2025-08-12 01:52:52,847 - __main__ - INFO - 📋 DRY RUN - Skipping 'Intelligent World: A Global Tech Event Connecting Thought Leaders and Innovators': No links confirmed
+2025-08-12 01:52:56,719 - __main__ - INFO - 📋 DRY RUN - Skipping 'Venture Capital in Europe &#8211; Supporting Deep Tech Innovation': No links confirmed
+2025-08-12 01:52:59,279 - __main__ - INFO - 📋 DRY RUN - Skipping '20 EU Startups to watch in 2023 according to EU Commission': No links confirmed
+2025-08-12 01:52:59,279 - __main__ - INFO - 📋 Enhanced DRY RUN completed: 18 posts analyzed
+2025-08-12 01:52:59,279 - __main__ - INFO - 📋 User skipped: 18 posts
+2025-08-12 01:52:59,279 - __main__ - INFO - Step 5: Generating enhanced report...
+2025-08-12 01:52:59,279 - __main__ - INFO - Generating enhanced analysis report...
+2025-08-12 01:52:59,351 - __main__ - INFO - 📊 Enhanced report saved: reports\report_6ab085fa_20250812_014803.json
+2025-08-12 01:52:59,351 - __main__ - INFO - ✅ Enhanced analysis completed successfully!
