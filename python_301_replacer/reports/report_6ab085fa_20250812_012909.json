@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "site_url": "https://www.eutechfuture.com/test",
+    "analysis_date": "2025-08-12T01:29:26.547573",
+    "tool_version": "3.0 (Final Bulletproof)",
+    "authentication_method": "Application Password",
+    "dry_run_mode": false,
+    "gutenberg_safe_replacement": true,
+    "cache_used": true,
+    "path_filters": {
+      "includes": [],
+      "excludes": []
+    }
+  },
+  "statistics": {
+    "total_urls_crawled": 1,
+    "internal_links_found": 0,
+    "redirect_chains_found": 16,
+    "posts_scanned": 23,
+    "posts_with_redirects": 17,
+    "total_redirect_links": 18,
+    "links_replaced": 0,
+    "errors_encountered": 0
+  },
+  "status_breakdown": {
+    "301": 11,
+    "404": 4,
+    "200": 1
+  },
+  "redirect_chains": [
+    {
+      "original_url": "https://www.eutechfuture.com/test",
+      "final_url": "https://www.eutechfuture.com/test",
+      "status_code": 301
+    },
+    {
+      "original_url": "https://www.eutechfuture.com/category/deep-tech-in-europe",
+      "final_url": "https://www.eutechfuture.com/category/deep-tech-in-europe",
+      "status_code": 301
+    },
+    {
+      "original_url": "https://www.eutechfuture.com/artificial-intelligence/ai-powered-glasses-a-growing-trend-in-europe",
+      "final_url": "https://www.eutechfuture.com/artificial-intelligence/ai-powered-glasses-a-growing-trend-in-europe",
+      "status_code": 301
+    },
+    {
+      "original_url": "https://www.eutechfuture.com/artificial-intelligence/the-ai-act-a-trailblazing-effort-to-regulate-artificial-intelligence-in-the-eu",
+      "final_url": "https://www.eutechfuture.com/artificial-intelligence/the-ai-act-a-trailblazing-effort-to-regulate-artificial-intelligence-in-the-eu",
+      "status_code": 301
+    },
+    {
+      "original_url": "https://eutechfuture.com/2025/01/18/pixxel-space-revolutionising-earth-observation/deep-tech",
+      "final_url": "https://www.eutechfuture.com/deep-tech-in-europe/deep-tech-funding-in-europe-an-overview",
+      "status_code": 301
+    },
+    {
+      "original_url": "https://eutechfuture.com/2023/08/27/ai-chip-manufacturers-in-europe/deep-tech",
+      "final_url": "https://www.eutechfuture.com/deep-tech-in-europe/deep-tech-funding-in-europe-an-overview",
+      "status_code": 301
+    },
+    {
+      "original_url": "https://eutechfuture.com/2023/08/13/emerging-generative-ai-future/trending-tech",
+      "final_url": "https://www.eutechfuture.com/2023/08/13/emerging-generative-ai-future/trending-tech",
+      "status_code": 404
+    },
+    {
+      "original_url": "https://eutechfuture.com/2023/08/08/venture-capital-in-europe-supporting-deep-tech-innovation/venture-capital",
+      "final_url": "https://www.eutechfuture.com/venture-capital/venture-capital-in-europe-supporting-deep-tech-innovation",
+      "status_code": 301
+    },
+    {
+      "original_url": "https://eutechfuture.com/2023/08/21/jeffrey-celavie-ai-oracle-and-online-astrologer-founder-claire-smith-funding-more/trending-tech",
+      "final_url": "https://www.eutechfuture.com/2023/08/21/jeffrey-celavie-ai-oracle-and-online-astrologer-founder-claire-smith-funding-more/trending-tech",
+      "status_code": 404
+    },
+    {
+      "original_url": "https://eutechfuture.com/2023/08/14/londons-artificial-intelligence-ai-startup-scene-in-2023/startups",
+      "final_url": "https://www.eutechfuture.com/2023/08/14/londons-artificial-intelligence-ai-startup-scene-in-2023/startups",
+      "status_code": 404
+    },
+    {
+      "original_url": "https://eutechfuture.com/category/venture-capital",
+      "final_url": "https://www.eutechfuture.com/category/venture-capital",
+      "status_code": 301
+    },
+    {
+      "original_url": "https://eutechfuture.com/2023/08/14/generative-ai-startups-in-europe-2023-venture-capital-tech-funding-and-more/startups",
+      "final_url": "https://www.eutechfuture.com/2023/08/14/generative-ai-startups-in-europe-2023-venture-capital-tech-funding-and-more/startups",
+      "status_code": 404
+    },
+    {
+      "original_url": "https://eutechfuture.com/2023/08/11/anthropic-funding-and-more-claude-ai-pioneering-safe-and-helpful-conversational-ai",
+      "final_url": "https://www.eutechfuture.com/venture-capital/anthropic-funding-and-more-claude-ai-pioneering-safe-and-helpful-conversational-ai",
+      "status_code": 301
+    },
+    {
+      "original_url": "https://eutechfuture.com/2023/08/08/venture-capital-in-europe-supporting-deep-tech-innovation",
+      "final_url": "https://www.eutechfuture.com/venture-capital/venture-capital-in-europe-supporting-deep-tech-innovation",
+      "status_code": 301
+    },
+    {
+      "original_url": "https://eutechfuture.com/2023/08/02/20-eu-startups-to-watch-in-2023-according-to-eu-commission",
+      "final_url": "https://www.eutechfuture.com/startups/20-eu-startups-to-watch-in-2023-according-to-eu-commission",
+      "status_code": 301
+    },
+    {
+      "original_url": "https://eutechfuture.com/",
+      "final_url": "https://www.eutechfuture.com/",
+      "status_code": 200
+    }
+  ],
+  "posts_with_redirects": [
+    {
+      "post_id": 287,
+      "title": "Deep Tech in Europe: Revolutionising the Future of Innovation",
+      "url": "https://www.eutechfuture.com/deep-tech-in-europe/deep-tech-in-europe-revolutionising-the-future-of-innovation/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://www.eutechfuture.com/category/deep-tech-in-europe",
+          "new_url": "https://www.eutechfuture.com/category/deep-tech-in-europe",
+          "status_code": 301
+        }
+      ]
+    },
+    {
+      "post_id": 267,
+      "title": "Handwave: Revolutionizing Payments with Palm-Based Biometric Technology",
+      "url": "https://www.eutechfuture.com/trending-tech/handwave-revolutionizing-payments-with-palm-based-biometric-technology/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://www.eutechfuture.com/artificial-intelligence/ai-powered-glasses-a-growing-trend-in-europe",
+          "new_url": "https://www.eutechfuture.com/artificial-intelligence/ai-powered-glasses-a-growing-trend-in-europe",
+          "status_code": 301
+        }
+      ]
+    },
+    {
+      "post_id": 243,
+      "title": "Semiconductors in Europe: Reclaiming a Critical Frontier",
+      "url": "https://www.eutechfuture.com/deep-tech-in-europe/semiconductors-in-europe-reclaiming-a-critical-frontier/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://www.eutechfuture.com/artificial-intelligence/the-ai-act-a-trailblazing-effort-to-regulate-artificial-intelligence-in-the-eu",
+          "new_url": "https://www.eutechfuture.com/artificial-intelligence/the-ai-act-a-trailblazing-effort-to-regulate-artificial-intelligence-in-the-eu",
+          "status_code": 301
+        }
+      ]
+    },
+    {
+      "post_id": 174,
+      "title": "Sunita Williams Latest News and Space Update Today: A Comprehensive Overview",
+      "url": "https://www.eutechfuture.com/trending-tech/sunita-williams-stuck-in-space/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/2025/01/18/pixxel-space-revolutionising-earth-observation/deep-tech",
+          "new_url": "https://www.eutechfuture.com/deep-tech-in-europe/deep-tech-funding-in-europe-an-overview",
+          "status_code": 301
+        }
+      ]
+    },
+    {
+      "post_id": 130,
+      "title": "The AI Act: A Trailblazing Effort to Regulate Artificial Intelligence in the EU",
+      "url": "https://www.eutechfuture.com/artificial-intelligence/the-ai-act-a-trailblazing-effort-to-regulate-artificial-intelligence-in-the-eu/",
+      "redirect_count": 2,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/2023/08/27/ai-chip-manufacturers-in-europe/deep-tech",
+          "new_url": "https://www.eutechfuture.com/deep-tech-in-europe/deep-tech-funding-in-europe-an-overview",
+          "status_code": 301
+        },
+        {
+          "old_url": "https://eutechfuture.com/2023/08/13/emerging-generative-ai-future/trending-tech",
+          "new_url": "https://www.eutechfuture.com/2023/08/13/emerging-generative-ai-future/trending-tech",
+          "status_code": 404
+        }
+      ]
+    },
+    {
+      "post_id": 121,
+      "title": "The Vital Role of Laboratory Testing Companies in Europe and the UK",
+      "url": "https://www.eutechfuture.com/innovation/the-vital-role-of-laboratory-testing-companies-in-europe-and-the-uk/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/2023/08/27/ai-chip-manufacturers-in-europe/deep-tech",
+          "new_url": "https://www.eutechfuture.com/deep-tech-in-europe/deep-tech-funding-in-europe-an-overview",
+          "status_code": 301
+        }
+      ]
+    },
+    {
+      "post_id": 117,
+      "title": "Starting a Venture Capital Firm in Europe",
+      "url": "https://www.eutechfuture.com/venture-capital/starting-a-venture-capital-firm-in-europe/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/2023/08/08/venture-capital-in-europe-supporting-deep-tech-innovation/venture-capital",
+          "new_url": "https://www.eutechfuture.com/venture-capital/venture-capital-in-europe-supporting-deep-tech-innovation",
+          "status_code": 301
+        }
+      ]
+    },
+    {
+      "post_id": 110,
+      "title": "Leading the AI Chip Revolution: Key Players Driving Europe&#8217;s Emergence as a Powerhouse",
+      "url": "https://www.eutechfuture.com/deep-tech-in-europe/ai-chip-manufacturers-in-europe/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/2023/08/21/jeffrey-celavie-ai-oracle-and-online-astrologer-founder-claire-smith-funding-more/trending-tech",
+          "new_url": "https://www.eutechfuture.com/2023/08/21/jeffrey-celavie-ai-oracle-and-online-astrologer-founder-claire-smith-funding-more/trending-tech",
+          "status_code": 404
+        }
+      ]
+    },
+    {
+      "post_id": 99,
+      "title": "The Rise of AI Gaming Companies in Europe",
+      "url": "https://www.eutechfuture.com/trending-tech/the-rise-of-ai-gaming-companies-in-europe/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/2023/08/14/londons-artificial-intelligence-ai-startup-scene-in-2023/startups",
+          "new_url": "https://www.eutechfuture.com/2023/08/14/londons-artificial-intelligence-ai-startup-scene-in-2023/startups",
+          "status_code": 404
+        }
+      ]
+    },
+    {
+      "post_id": 86,
+      "title": "The Luxury Private Helicopter Industry in Europe &#8211; Venture Capital, Funding and more",
+      "url": "https://www.eutechfuture.com/trending-tech/the-luxury-private-helicopter-industry-in-europe-venture-capital-funding-and-more/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/category/venture-capital",
+          "new_url": "https://www.eutechfuture.com/category/venture-capital",
+          "status_code": 301
+        }
+      ]
+    },
+    {
+      "post_id": 81,
+      "title": "London&#8217;s Artificial Intelligence (AI) Startup Scene in 2023",
+      "url": "https://www.eutechfuture.com/startups/londons-artificial-intelligence-ai-startup-scene-in-2023/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/2023/08/14/generative-ai-startups-in-europe-2023-venture-capital-tech-funding-and-more/startups",
+          "new_url": "https://www.eutechfuture.com/2023/08/14/generative-ai-startups-in-europe-2023-venture-capital-tech-funding-and-more/startups",
+          "status_code": 404
+        }
+      ]
+    },
+    {
+      "post_id": 70,
+      "title": "Generative AI Startups in Europe 2023: Venture Capital, Tech, Funding and more",
+      "url": "https://www.eutechfuture.com/startups/generative-ai-startups-in-europe-2023-venture-capital-tech-funding-and-more/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/2023/08/13/emerging-generative-ai-future/trending-tech",
+          "new_url": "https://www.eutechfuture.com/2023/08/13/emerging-generative-ai-future/trending-tech",
+          "status_code": 404
+        }
+      ]
+    },
+    {
+      "post_id": 67,
+      "title": "Emerging Generative AI Future: Silver Lining or a Sceptic Horizon",
+      "url": "https://www.eutechfuture.com/trending-tech/emerging-generative-ai-future/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/2023/08/11/anthropic-funding-and-more-claude-ai-pioneering-safe-and-helpful-conversational-ai",
+          "new_url": "https://www.eutechfuture.com/venture-capital/anthropic-funding-and-more-claude-ai-pioneering-safe-and-helpful-conversational-ai",
+          "status_code": 301
+        }
+      ]
+    },
+    {
+      "post_id": 30,
+      "title": "Anthropic’s Claude AI: Pioneering Safe and Helpful Conversational AI | Funding and more",
+      "url": "https://www.eutechfuture.com/venture-capital/anthropic-funding-and-more-claude-ai-pioneering-safe-and-helpful-conversational-ai/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/2023/08/08/venture-capital-in-europe-supporting-deep-tech-innovation",
+          "new_url": "https://www.eutechfuture.com/venture-capital/venture-capital-in-europe-supporting-deep-tech-innovation",
+          "status_code": 301
+        }
+      ]
+    },
+    {
+      "post_id": 26,
+      "title": "Intelligent World: A Global Tech Event Connecting Thought Leaders and Innovators",
+      "url": "https://www.eutechfuture.com/startups/intelligent-world-ronald-van-loon/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/2023/08/08/venture-capital-in-europe-supporting-deep-tech-innovation",
+          "new_url": "https://www.eutechfuture.com/venture-capital/venture-capital-in-europe-supporting-deep-tech-innovation",
+          "status_code": 301
+        }
+      ]
+    },
+    {
+      "post_id": 19,
+      "title": "Venture Capital in Europe &#8211; Supporting Deep Tech Innovation",
+      "url": "https://www.eutechfuture.com/venture-capital/venture-capital-in-europe-supporting-deep-tech-innovation/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/2023/08/02/20-eu-startups-to-watch-in-2023-according-to-eu-commission",
+          "new_url": "https://www.eutechfuture.com/startups/20-eu-startups-to-watch-in-2023-according-to-eu-commission",
+          "status_code": 301
+        }
+      ]
+    },
+    {
+      "post_id": 10,
+      "title": "20 EU Startups to watch in 2023 according to EU Commission",
+      "url": "https://www.eutechfuture.com/startups/20-eu-startups-to-watch-in-2023-according-to-eu-commission/",
+      "redirect_count": 1,
+      "has_raw_content": true,
+      "redirects": [
+        {
+          "old_url": "https://eutechfuture.com/",
+          "new_url": "https://www.eutechfuture.com/",
+          "status_code": 200
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

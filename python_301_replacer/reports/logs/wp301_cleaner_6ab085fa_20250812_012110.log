@@ -1,0 +1,8 @@
+2025-08-12 01:21:10,017 - __main__ - INFO - 🛡️ Final Bulletproof WordPress 301 Cleaner v3.0 initialized
+2025-08-12 01:21:10,017 - __main__ - INFO - Authentication: Cookie-based
+2025-08-12 01:21:10,017 - __main__ - INFO - Dry run mode: Disabled
+2025-08-12 01:21:10,017 - __main__ - INFO - Log file: reports\logs\wp301_cleaner_6ab085fa_20250812_012110.log
+2025-08-12 01:21:10,023 - __main__ - INFO - 🛡️ Starting Final Bulletproof WordPress 301 analysis - LIVE MODE
+2025-08-12 01:21:10,023 - __main__ - INFO - Using cookie-based authentication...
+2025-08-12 01:21:12,895 - __main__ - ERROR - ❌ Cookie-based authentication failed
+2025-08-12 01:21:12,961 - __main__ - ERROR - ❌ Authentication failed - cannot proceed

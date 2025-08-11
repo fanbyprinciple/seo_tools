@@ -1,0 +1,25 @@
+[
+  {
+    "post_id": 10,
+    "title": "20 EU Startups to watch in 2023 according to EU Commission",
+    "url": "https://www.eutechfuture.com/startups/20-eu-startups-to-watch-in-2023-according-to-eu-commission/",
+    "links_to_replace": 1,
+    "replacements": [
+      {
+        "old_url": "https://eutechfuture.com/",
+        "new_url": "https://www.eutechfuture.com/",
+        "pattern": "href=\"https://eutechfuture.com/\"",
+        "count": 1
+      }
+    ],
+    "plan": [
+      {
+        "old_url": "https://eutechfuture.com/",
+        "new_url": "https://www.eutechfuture.com/",
+        "pattern": "href=\"https://eutechfuture.com/\"",
+        "position": 5751,
+        "context": "Venture Capital, AI Tech Funding &amp; more on <a href=\"https://eutechfuture.com/\">EU Tech Venture</a>"
+      }
+    ]
+  }
+]
